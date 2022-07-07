@@ -20,9 +20,6 @@ public class Main {
 
     public static void main(String[] args){
 
-        // OTkzOTMxMDUxNjM2Mzc5Nzcw.GH9lPk.8CNeXOZRvyfov0VmnCu5ZpXp7a48hcGUr-yTeQ
-        // ID : 993931051636379770
-
         FileManager fileManager = new FileManager();
 
         JDA jda;
